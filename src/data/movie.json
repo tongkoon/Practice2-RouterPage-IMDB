@@ -1,0 +1,159 @@
+[
+    {
+        "idx": 0,
+        "name": "Spider-man",
+        "img": "https://lh3.googleusercontent.com/X4iS3R6QsVfg0zNFIQE8SiTSepialDpGHBkrmxPtSC58I_XYYlB6ckQOo9lug1aMe863ckG8MtCW2dHJ8-3F_gV9azjukzGBGg=w260",
+        "video": "https://www.youtube.com/embed/td9Ls5aTL-A?si=DZxJlrv-L6QpabSD",
+        "rate": "6.5",
+        "year": "2023",
+        "time": 140,
+        "type": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "description": "After being reunited with Gwen Stacy Spider-Man, a good neighbor. Thrown into a new multiverse of the spiders. It's where Miles meets the other spiders. But then conflict arose because of the spiders' different opinions. Miles is forced to fight other spiders. In the spirit of being a true superhero and protecting the people he loves…and this is the battle. Spider-War The greatest in Spider-Man's unpredictable universe.",
+        "director": [
+            "Kemp Powers",
+            "Joaquim Dos Santos",
+            "Justin K. Thompson"
+        ],
+        "writer": [
+            "Phil Lord",
+            "Christopher Miller",
+            "Dave Callaham"
+        ],
+        "star": [
+            "Hailee Steinfeld",
+            "Shameik Moore",
+            "Issa Rae"
+        ]
+    },
+    {
+        "idx": 1,
+        "name": "DUNE 2",
+        "img": "https://lh3.googleusercontent.com/At7-P67j4DaB3OmtnAKyh4CPu3x-GuDonJ80Z3ypCfrWEZEwzO9-nBWf-f8F3KINrHVrBLmUltEXjmgY2RLbLoCFNDRNb7XdXw=w260",
+        "video": "https://www.youtube.com/embed/seoUcT_QZdc?si=uCn1Z8v9qtnx1z9d",
+        "rate": "5.5",
+        "year": "2024",
+        "time": 165,
+        "type": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "description": "“Dune: Part Two” explores the epic journey of Paul Atreides, who reunites with Shani and the Fremen as he pursues revenge against The rebellion that destroyed his family He must choose between his lover and the fate of the universe. He must also try to prevent a terrible future that only he can foresee.",
+        "director": [
+            "Denis Villeneuve"
+        ],
+        "writer": [
+            "Frank Herbert"
+        ],
+        "star": [
+            "Rebecca Ferguson",
+            "Timothee Chalamet",
+            "Zendaya"
+        ]
+    },
+    {
+        "idx": 2,
+        "name": "Demon Slayer",
+        "img": "https://lh3.googleusercontent.com/NHOFjou5kHV45c2YypYoPuyiFao9bYQJW5ZTVResX9xk3-kidvM4WbuhA0rccujXiS52xYXEGEikGH1qYu4TzZRG4jx7VVIadws=w280",
+        "video": "https://www.youtube.com/embed/epb-AQarKPk?si=rKEKBJox3pEZS0Rt",
+        "rate": "8.6",
+        "year": "2024",
+        "time": 105,
+        "type": [
+            "Animation"
+        ],
+        "description": "The story begins with Kamado Tanjiro, a young boy whose family was killed by a demon. He has decided to become a 'Demon Hunter' to help Nezuko. His sister who had turned into a demon was returned to human. By the first season like 'The Story of Tanjiro Kamado' began airing in April 2019. After that, in October 2020, a movie titled 'The Story of Kamado Tanjiro' began airing. 'Train Battle to Eternity' and anime broadcast 'Part Yan Ren Rom' in October 2021 as well, and in the spring of 2024, the long-awaited new anime series, 'Pillar Training' has already been scheduled to air.",
+        "director": [
+            "Haruo Sotozaki"
+        ],
+        "writer": [
+            "Koyoharu Gotouge"
+        ],
+        "star": []
+    },
+    {
+        "idx": 3,
+        "name": "Masked Rider NEXT Faiz",
+        "img": "https://lh3.googleusercontent.com/Ognuk3kdECvbXlFmWaqP8KGnAdrHsmOLOiHltBv7ivsoiQhM6nxqSG96WsNmBTKMgKsTyaBY9ER19waidv00nwygvpguO8Zq1g=w280",
+        "video": "https://www.youtube.com/embed/0GSTnvmP6Hs?si=fBdtrXQY0Gcr_XSz",
+        "rate": "4.3",
+        "year": "2024",
+        "time": 65,
+        "type": [
+            "Action",
+            "Drama",
+            "Sci - Fi"
+        ],
+        "description": "Sonoda Mari is heading to Keitaro's cleaning shop with her nephew Jotaro. and meets the return of Naoya and Masato. Meanwhile, Smart Brain, which had become a government organization, transformed into a new corporation that aims to destroy all Alphenok life. And this operation is led by Kitasaki.",
+        "director": [
+            "Ryuta Tasaki"
+        ],
+        "writer": [
+            "Toshiki Inoue"
+        ],
+        "star": [
+            "Kento Handa",
+            "Yuria Haga",
+            "Kohei Murakami"
+        ]
+    },
+    {
+        "idx": 4,
+        "name": "Madame WEB",
+        "img": "https://lh3.googleusercontent.com/Vy2614FkOeHh-peRRD587NGsItlGrXUPy5vCs0YNaOF-JXr56KuvAaKEX32l5myfj9xop1UhlbAmOlm_td_bWqADn5Ejonv8XFg=w280",
+        "video": "https://www.youtube.com/embed/nKR_2gZJJro?si=KEuh5uOjJdt4-vdV",
+        "rate": "3.3",
+        "year": "2024",
+        "time": 115,
+        "type": [
+            "Action",
+            "Adventure",
+            "Sci - Fi"
+        ],
+        "description": "Cassandra Web, an emergency medical worker in Manhattan After nearly dying She discovered that she had mysterious clairvoyance powers. that can make one see the dimensions of the near future And that makes her involved with three young women who are destined to join forces together. Unless they must find a way to survive the dangers facing a villain with similar powers.",
+        "director": [
+            "S.J. Clarkson"
+        ],
+        "writer": [
+            "Kerem Sanga",
+            "Matt Sazama",
+            "Burk Sharpless"
+        ],
+        "star": [
+            "Dakota Johnson",
+            "Tahar Rahim",
+            "Sydney Sweeney"
+        ]
+    },
+    {
+        "idx": 5,
+        "name": "Kung Fu Panda 4",
+        "img": "https://lh3.googleusercontent.com/5U3o9cOloz01BbVZgqd9EnX6YR49SkMv22EROs8h9JvR6YQ2UMHuaV9odebRk1Hxs80cumWB80njRihnqLbMwG7dwjwCke5xYmE=w260",
+        "video": "https://www.youtube.com/embed/ZXxzA0ZuW90?si=kDSP3pIY6QNXdUNU",
+        "rate": "4.1",
+        "year":"2024",
+        "time": 95,
+        "type": [
+            "Action",
+            "Animation",
+            "Comedy"
+        ],
+        "description": "The story of Po who travels from Santi Village to the big city. where an unexpected evil entity awaits him. It is a new villain named The Chameleon, the Dragon Warrior's new nemesis. He would no longer be the person he could fight casually like before. Because the danger of this enemy is The ability to call back Po's past enemies.",
+        "director": [
+            "Mike Mitchell"
+        ],
+        "writer": [
+            "Jonathan Aibel",
+            "Glenn Berger"
+        ],
+        "star": [
+            "Jack Black",
+            "Awkwafina",
+            "Viola Davis"
+        ]
+    }
+]

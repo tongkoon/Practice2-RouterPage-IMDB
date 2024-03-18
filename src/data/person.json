@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Zendaya",
+        "avatar": "https://lh3.googleusercontent.com/xwhaNJhgzDdc6gNTn-3pEs3VLJx2hhHviV2HJMl82NCEO8MiO3DUsxb6PIrdBcBG4qkPR-BU1UMeGxJYR-iv7etnK4FcsrKD=w100",
+        "img": "https://m.media-amazon.com/images/M/MV5BMjAxZTk4NDAtYjI3Mi00OTk3LTg0NDEtNWFlNzE5NDM5MWM1XkEyXkFqcGdeQXVyOTI3MjYwOQ@@._V1_.jpg",
+        "video": "https://www.youtube.com/embed/uI_VGW9rgYQ?si=lEhEeepKlM0Mi54I",
+        "description": "Zendaya (which meansto give thanks in the language of Shona) is an American actress and singer born in Oakland, California. She began her career appearing as a child model working for Macy's, Mervyns and Old Navy. She was a backup dancer before gaining prominence for her role as Rocky Blue on the Disney Channel sitcom ",
+        "born": "1996-09-01",
+        "age": "28",
+        "type": "Actress"
+    },
+    {
+        "name": "Timothee Chalamet",
+        "avatar": "https://lh3.googleusercontent.com/Pqv69FmruDtgApkU2g_21JmqavipegHU-RhAdN74f_sUQbwCHi28A8Zdaz0n08esdOBlX9a01VD83JRRuoGd=w100",
+        "img": "https://lh3.googleusercontent.com/Pqv69FmruDtgApkU2g_21JmqavipegHU-RhAdN74f_sUQbwCHi28A8Zdaz0n08esdOBlX9a01VD83JRRuoGd=w100",
+        "video": "https://www.youtube.com/embed/U2Qp5pL3ovA?si=CqSmtf3gIheVH542",
+        "description": "Timothée Hal Chalamet was born in Manhattan, to Nicole Flender, a real estate broker and dancer, and Marc Chalamet, a UNICEF editor. His mother, who is from New York, is Jewish, of Russian Jewish and Austrian Jewish descent. His father, who is from Nîmes, France, is of French and English ancestry. He is the brother of actress Pauline Chalamet, a nephew of director Rodman Flender, and a grandson of screenwriter Harold Flender.",
+        "born": "1983-12-27",
+        "age": "41",
+        "type": "Actor"
+    },
+    {
+        "name": "Rebecca Ferguson",
+        "avatar": "https://lh3.googleusercontent.com/ZiXZnabMMB6MflPJdmcE4RmGmVJxx1_DuQdoZaLc_qWomvPQxtjepMQ0UXJjFGj51q1tzpUCPkfXL_9tnq3FPQ=w100",
+        "img": "https://m.media-amazon.com/images/M/MV5BODYwMzk0MTk5MV5BMl5BanBnXkFtZTgwNzMwNjM0NTE@._V1_FMjpg_UX1000_.jpg",
+        "video": "https://www.youtube.com/embed/vLhrS5rag_o?si=l135vrtB2Ih108Bc",
+        "description": "Rebecca Ferguson was born Rebecca Louisa Ferguson Sundström in Stockholm, Sweden, and grew up in its Vasastaden district. Her father is Swedish. Her mother, Rosemary Ferguson, is British, of Scottish and Northern Irish descent, and moved to Sweden at the age of 25. Rebecca attended an English-speaking school in Sweden and was raised bilingual, speaking Swedish and English. As a student, she attended the Adolf Fredrik's Music School in Stockholm and graduated in 1999.",
+        "born": "1983-10-19",
+        "age": "41",
+        "type": "Actress"
+    },
+    {
+        "name": "Dakota Johnson",
+        "avatar": "https://lh3.googleusercontent.com/KBCoKELUmWTxTOajqlc9Bot1qoiwaXzJV_rJkWdub7wKlb5GYx3hqujt8ystzn7Or26Vm3Lqyta4Px1lZIJXUvC3_Dq9GDJ7rXc=w100",
+        "img": "https://m.media-amazon.com/images/M/MV5BODE1ODE5MzY5M15BMl5BanBnXkFtZTgwNDg1NDA4NTM@._V1_FMjpg_UX1000_.jpg",
+        "video": "https://www.youtube.com/embed/RmTRLW3j8D8?si=_W3RXlF2mR1pdeRY",
+        "description": "Rebecca Ferguson was born Rebecca Louisa Ferguson Sundström in Stockholm, Sweden, and grew up in its Vasastaden district. Her father is Swedish. Her mother, Rosemary Ferguson, is British, of Scottish and Northern Irish descent, and moved to Sweden at the age of 25. Rebecca attended an English-speaking school in Sweden and was raised bilingual, speaking Swedish and English. As a student, she attended the Adolf Fredrik's Music School in Stockholm and graduated in 1999.",
+        "born": "1989-10-04",
+        "age": "35",
+        "type": "Actress"
+    },
+    {
+        "name": "Tahar Rahim",
+        "avatar": "https://lh3.googleusercontent.com/YQyd9rP76W7vB2ov9lYQAqRw1aGHI6RrZk-rAUzDmgoV58MIeVk6-4RNwT16QNTH3lfd-OUgwf17m3S37GW-cd1Fp8zmqi9BeA=w100",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTUxNDE0MDQyMl5BMl5BanBnXkFtZTgwNjcxMDk2NTE@._V1_QL75_UY207_CR78,0,140,207_.jpg",
+        "video": "https://www.youtube.com/embed/d0y3KUxLnf0?si=PG5yjxyLzHG34Frb",
+        "description": "Tahar Rahim was born on 4 July 1981 in Belfort, Territoire de Belfort, France. He is an actor, known for Un prophète (2009), The Mauritanian (2021) and Le passé (2013). He has been married to Leïla Bekhti since 2010.",
+        "born": "1981-07-04",
+        "age": "43",
+        "type": "Actor"
+    },
+    {
+        "name": "Sydney Sweeney",
+        "avatar": "https://lh3.googleusercontent.com/XdDD92QMWLqztF5mCAOGa_ujMYesT1kMSUMWEK91KPh8DbkLqvhmeX6MHuBWFgG6Zog7gLQ00dGZy6esEuHBpTU_Hv-jJPvAOw=w100",
+        "img": "https://m.media-amazon.com/images/M/MV5BOTVjOTkxNjMtNDJiYS00YzEzLThmZTItZjJhM2E4NWQyM2Q2XkEyXkFqcGdeQXVyNzM1NTU0NA@@._V1_FMjpg_UX1000_.jpg",
+        "video": "https://www.youtube.com/embed/a9ZhleGV4Qc?si=ICqLL4zw5VNPL1HH",
+        "description": "Sydney Sweeney (born September 12, 1997) is an American actress best known for her roles as Haley Caren on In the Vault (2017) and Emaline Addario on the Netflix series Everything Sucks! (2018). Sweeney is set to star in recurring roles in the HBO miniseries Sharp Objects (2018) starring Amy Adams and the Hulu series The Handmaid's Tale (2017) with Elisabeth Moss.Sweeney has guest starred in TV shows such as Pretty Little Liars (2010), Criminal Minds",
+        "born": "1997-09-12",
+        "age": "27",
+        "type": "Actress"
+    },
+    {
+        "name": "Phil Lord",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BOTI5NTUwMTAwOV5BMl5BanBnXkFtZTcwMDIxMDgzOQ@@._V1_.jpg",
+        "img": "https://m.media-amazon.com/images/M/MV5BOTI5NTUwMTAwOV5BMl5BanBnXkFtZTcwMDIxMDgzOQ@@._V1_.jpg",
+        "video": "https://www.youtube.com/embed/UhfVA5rY5so?si=rSibGjUfdLej7ng5",
+        "description": "Philip A. Lord is an American filmmaker, producer and writer who collaborates with Christopher Miller. They both worked on Clone High, a cult classic animated sci-fi teen comedy show, The Lego Movie, 21 Jump Street, 22 Jump Street and Spider-Man: Into the Spider-Verse. Into the Spider-Verse is considered one of the best animated films of the 2010s and won Best Animated Feature.",
+        "born": "1975-07-12",
+        "age": "49",
+        "type": "Actor"
+    },
+    {
+        "name": "Christopher Miller",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BMTAzNDAzODgzOTheQTJeQWpwZ15BbWU3MDc5MDg4MTg@._V1_FMjpg_UX1000_.jpg",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTAzNDAzODgzOTheQTJeQWpwZ15BbWU3MDc5MDg4MTg@._V1_FMjpg_UX1000_.jpg",
+        "video": "https://www.youtube.com/embed/j3E7HPrwI0M?si=vaWJuYRWzPS8glbV",
+        "description": "Christopher Miller is an American filmmaker, producer and writer who collaborates with Philip A. Lord. They both worked on Clone High, a cult classic animated sci-fi teen comedy show, The Lego Movie, Cloudy with a Chance of Meatballs, 21 Jump Street, 22 Jump Street and Spider-Man: Into the Spider-Verse. Into the Spider-Verse is considered one of the best animated films of the 2010s and won Best Animated Feature.",
+        "born": "1975-09-23",
+        "age": "49",
+        "type": "Actor"
+    },
+    {
+        "name": "Dave Callaham",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BMmRhZjYwYWYtNzU1Zi00M2FhLWJjYjctNDI3NjU1YTQ1ZWQyXkEyXkFqcGdeQXVyNDEzMDkzOQ@@._V1_.jpg",
+        "img": "https://m.media-amazon.com/images/M/MV5BMmRhZjYwYWYtNzU1Zi00M2FhLWJjYjctNDI3NjU1YTQ1ZWQyXkEyXkFqcGdeQXVyNDEzMDkzOQ@@._V1_.jpg",
+        "video": "https://www.youtube.com/embed/0IPjfLiThGo?si=opP4skyTCVHKJumA",
+        "description": "Dave Callaham was born in Fresno, California, USA. Dave is a writer and producer, known for Shang-Chi and the Legend of the Ten Rings (2021), Spider-Man: Across the Spider-Verse (2023) and Jean-Claude Van Johnson (2016). Dave has been married to Bree Tichy since 9 May 2009. They have one child.",
+        "born": "1970-10-24",
+        "age": "58",
+        "type": "Actor"
+    },
+    {
+        "name": "Kento Handa",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BMzEwMmQ3NDktMDhhNC00NTllLTkyMTYtNTVhZTk5ODZjOTUwXkEyXkFqcGdeQXVyMTcxMjU2Mzc1._V1_.jpg",
+        "img": "https://m.media-amazon.com/images/M/MV5BMzEwMmQ3NDktMDhhNC00NTllLTkyMTYtNTVhZTk5ODZjOTUwXkEyXkFqcGdeQXVyMTcxMjU2Mzc1._V1_.jpg",
+        "video": "https://www.youtube.com/embed/acyxpF73Bbk?si=dv4lJhzGRfafFfnr",
+        "description": "Kento Handa was born on 4 June 1984 in Hyogo, Japan. He is an actor, known for Kamen raidâ 555 (2003), Gekijôban Kamen Raidâ 555: Paradaisu rosuto (2003) and Super Hero Taisen GP: Kamen Rider 3 (2015).",
+        "born": "1984-06-04",
+        "age": "40",
+        "type": "Actor"
+    },
+    {
+        "name": "Yuria Haga",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BODg5YTA0NjEtODQxOC00YTE4LTk0MWMtM2JlZGZkNzc4YTJkXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_.jpg",
+        "img": "https://m.media-amazon.com/images/M/MV5BODg5YTA0NjEtODQxOC00YTE4LTk0MWMtM2JlZGZkNzc4YTJkXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_.jpg",
+        "video": "https://www.youtube.com/embed/DwZsU6yTWv4?si=S5F96uasQvd26ZvE",
+        "description": "Yuria Haga was born on 27 November 1987 in Tokyo, Japan. She is an actress, known for Kamen raidâ 555 (2003), Gekijôban Kamen Raidâ 555: Paradaisu rosuto (2003) and Kamen raidâ Kiba (2008). She has been married to Kenta Kamakari since 11 April 2017. They have one child.",
+        "born": "1987-11-27",
+        "age:": "37",
+        "type": "Actor"
+    },
+    {
+        "name": "Kohei Murakami",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoE03lzuYB7vfMVonfnfnfX2PSFjPwqahpAlQJM5zzQw&s",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoE03lzuYB7vfMVonfnfnfX2PSFjPwqahpAlQJM5zzQw&s",
+        "video": "https://www.youtube.com/embed/PmGCwmWS5Hc?si=7Ra2eMOCmbS0ryqo",
+        "description": "Kôhei Murakami was born on 1 June 1976 in Kanagawa, Japan. He is an actor, known for Kamen raidâ 555 (2003), Gekijôban Kamen Raidâ 555: Paradaisu rosuto (2003) and Gekijôban Dôbutsu Sentai Jûôjâ Tai Ninninjâ Mirai kara no Messêji Furomu Sûpâ Sentai (2017).",
+        "born": "1976-06-01",
+        "age": "48",
+        "type": "Actor"
+    },
+    {
+        "name": "Jack Black",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BYTFiMWNlNmItMDRiYy00NzA4LWE5YjItZmViNWQ2NzhhOWZlXkEyXkFqcGdeQXVyMTA2Mjc5ODMy._V1_.jpg",
+        "img": "https://m.media-amazon.com/images/M/MV5BYTFiMWNlNmItMDRiYy00NzA4LWE5YjItZmViNWQ2NzhhOWZlXkEyXkFqcGdeQXVyMTA2Mjc5ODMy._V1_.jpg",
+        "video": "https://www.youtube.com/embed/aW7bzd8uwyQ?si=6nOoji4NV36wvHYe",
+        "description": "Thomas Jacob Jack Black was born on August 28, 1969 in Santa Monica, California and raised in Hermosa Beach, California to Judith Love Cohen & Thomas William Black, both satellite engineers. He is of Russian Jewish & British-German ancestry. Black attended the University of California at Los Angeles. While at UCLA, he was a member of Tim Robbins' acting troupe & it was through this collaboration that led to his 1992 film debut in Bob Roberts (1992).",
+        "born": "1969-0828",
+        "age": "55",
+        "type": "Actor"
+    },
+    {
+        "name": "Awkwafina",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlXQyFwkY-80wgjN-xbuT4rHP72VzoyZXzW1QnnXvAjw&s",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlXQyFwkY-80wgjN-xbuT4rHP72VzoyZXzW1QnnXvAjw&s",
+        "video": "https://www.youtube.com/embed/jcowcEYZv_c?si=PRlucS5upc6391N1",
+        "description": "Nora Lum, known professionally as Awkwafina, is an American actress and rapper. She has played supporting roles in the comedy films Ocean's 8 and Crazy Rich Asians (2018), and her leading role in the comedy-drama The Farewell (2019) earned her a Golden Globe Award for Best Actress nomination.She has released two albums, Yellow Ranger (2014) and In Fina We Trust (2018). She has also ventured into comedy and hosting, making television appearances",
+        "born": "1988-06-02",
+        "age": "36",
+        "type": "Actress"
+    },
+    {
+        "name": "Viola Davis",
+        "avatar": "https://m.media-amazon.com/images/M/MV5BNzUxNjM4ODI1OV5BMl5BanBnXkFtZTgwNTEwNDE2OTE@._V1_FMjpg_UX1000_.jpg",
+        "img": "https://m.media-amazon.com/images/M/MV5BNzUxNjM4ODI1OV5BMl5BanBnXkFtZTgwNTEwNDE2OTE@._V1_FMjpg_UX1000_.jpg",
+        "video": "https://www.youtube.com/embed/JOABbkIBdUk?si=VbEadlQ1Te74LlaV",
+        "description": "Viola Davis is a critically revered actress of film, television, and theater and has won rave reviews for her multitude of substantial and intriguingly diverse roles. Audiences across the United States and internationally have admired her for her work- including her celebrated, Oscar-nominated performances in The Help (2011), Doubt (2008), and her Oscar winning performance in Fences (2016). In 2015, Davis won the Emmy Award for Outstanding Performance",
+        "born": "1965-08-11",
+        "age": "59",
+        "type": "Actress"
+    }
+]
